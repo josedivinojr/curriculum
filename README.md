@@ -3,8 +3,8 @@
 Desenvolvedor Júnior / Full-Stack.
 
 :house:     Uberlândia - MG <br>
-:mailbox:   [josedivinofjr@gmail.com](mailto:josedivinofjr@gmail.com){:target="_blank"}
-:mag_right: [LinkedIn](https://www.linkedin.com/in/josedivinojr/){:target="_blank"}
+:mailbox:   [josedivinofjr@gmail.com](mailto:josedivinofjr@gmail.com)  
+:mag_right: [LinkedIn](https://www.linkedin.com/in/josedivinojr/) 
 
 ## Formação
 
